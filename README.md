@@ -10,7 +10,7 @@ Autocompletions available for given prefixes:
 
 ```
 cd ~/.oh-my-zsh/custom/plugins
-git clone https://github.com/TheGrowingPlant/symfony.plugin.zsh.git symfony
+git clone https://github.com/Akollade/symfony.plugin.zsh.git symfony
 ```
 
 Edit `~/.zshrc` to enable the plugin:
