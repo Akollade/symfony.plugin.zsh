@@ -6,7 +6,7 @@ Autocompletions available for given prefixes:
 * `bin/console`
 * `sf`
 
-# Installation
+# Install
 
 ```
 cd ~/.oh-my-zsh/custom/plugins
