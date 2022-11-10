@@ -1,6 +1,6 @@
 # symfony.plugin.zsh
 
-This is an [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) plugin for autocompleting Symfony 3/4 commands.
+This is an [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) plugin for autocompleting Symfony commands.
 
 Autocompletions available for given prefixes:
 * `bin/console`
